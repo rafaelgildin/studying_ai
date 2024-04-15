@@ -1,9 +1,8 @@
 # folders
-ml-100k
+recommendation-systems
 
 # files
 classification.ipynb
-recommendation-systems.ipynb
 
 # extensions
 *.zip
