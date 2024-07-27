@@ -1,0 +1,7 @@
+ipykernel==6.29.5
+google-cloud-aiplatform>=1.38
+python-dotenv==1.0.1
+langsmith==0.1.93
+tavily-python==0.3.5
+langchain-google-genai==1.0.8
+faiss-cpu==1.8.0.post1
