@@ -10,6 +10,8 @@ langchain-core==0.2.24
 langchain-google-vertexai==1.0.7
 langchain-text-splitters==0.2.2
 langchain-experimental==0.0.63
+langchain-chroma==0.1.2
+
 unstructured[all-docs]==0.15.0
 pypdf==4.3.1
 pydantic==2.8.2
