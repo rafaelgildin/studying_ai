@@ -9,3 +9,6 @@ classification.ipynb
 # extensions
 *.zip
 .env
+
+crewai*
+genai
