@@ -9,6 +9,7 @@ classification.ipynb
 # extensions
 *.zip
 .env
+*db
 
 crewai*
 genai
