@@ -11,6 +11,7 @@ classification.ipynb
 .env
 *db
 *Zone.Identifier
+*.png 
 
 crewai*
 genai
