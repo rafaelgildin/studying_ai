@@ -2,6 +2,7 @@
 recommendation-systems
 tensorflow-1-public
 deep-learning-with-python-notebooks
+.vscode
 
 # files
 classification.ipynb
